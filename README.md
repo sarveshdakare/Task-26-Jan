@@ -9,7 +9,7 @@
 
 3.How to Install and Run the Project:Download the zip file or open from github desktop
                                     a)For Frontend:
-                                                  1.npm init react
+                                                  1.npm i react
                                                   2.npm start
                                     b)For Backend:
                                                   1.npm init -y
